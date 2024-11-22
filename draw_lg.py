@@ -5,7 +5,7 @@ import matplotlib.patches as patches
 def main():
     # 檢查命令列參數
     if len(sys.argv) != 3:
-        print("使用方法: python visualize_cells.py <輸入檔案路徑> <輸出圖形路徑>")
+        print("使用方法: python draw_lg.py <輸入檔案路徑> <輸出圖形路徑>")
         sys.exit(1)
 
     input_file = sys.argv[1]

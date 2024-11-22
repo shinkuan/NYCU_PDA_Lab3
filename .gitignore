@@ -2,7 +2,6 @@ __pycache__
 *.txt
 *.exe
 test.*
-pic
 obj
 3135*
 .vscode
